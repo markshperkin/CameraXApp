@@ -1,5 +1,4 @@
 //https://github.com/Dhaval2404/ImagePicker
-//https://github.com/burhanrashid52/PhotoEditor
 package com.example.cameraxapp
 
 import android.Manifest
