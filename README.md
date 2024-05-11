@@ -9,7 +9,7 @@
   <h1>Camera App</h1>
 
   <h2>Description</h2>
-  <p>The Camera app is an Android application that allows capturing and recording of videos. Additionally, users can choose a picture from the gallery and modify it using various editing features. This app is built upon the professor's, Robert Bailey starter app, which included simple photo and video captures. To enhance functionality, I integrated the image picker feature from the gallery using the <a href="https://github.com/Dhaval2404/ImagePicker">ImagePicker library</a>. Moreover, I implemented all the features required for modifying images.</p>
+  <p>The Camera app is an Android application that allows capturing and recording of videos. Additionally, users can choose a picture from the gallery and modify it using various editing features. This app is built upon my professor's, Robert Bailey, starter app, which included simple photo and video captures. To enhance functionality, I integrated the image picker feature from the gallery using the <a href="https://github.com/Dhaval2404/ImagePicker">ImagePicker library</a>. Moreover, I implemented all the features required for modifying images.</p>
 
   <h2>Features</h2>
   <ul>
